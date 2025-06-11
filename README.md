@@ -272,6 +272,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
+Sidarth Dongre - sidhdongre358@gmail.com
 
-Project Link: [https://github.com/Sidhdongre358/universal-task-management](https://github.com/Sidhdongre358/universal-task-management)
+Project Link: [https://github.com/Sidhdongre358/universal-app](https://github.com/Sidhdongre358/universal-app)
